@@ -3,10 +3,10 @@ title: "Neuvostoihmisen paluu"
 author: ""
 date: "2019-9-9"
 categories: [Pohdinta, Venäjä]
-image: "images/venäjä.jpeg"
+image: "images/venäjä-01.jpg"
 ---
 
-![Torni Saratovissa](images/venäjä.jpeg){fig-align="center"}
+![Torni Saratovissa](images/venäjä-01.jpg){fig-align="center"}
 
 Nyt kun rautatietunneli Viroon on kuin on-off -parisuhde, päätin matkustaa raiteilla reitin Helsingistä Venäjän läpi Georgiaan päästäkseni nopeammin junamatkailun tunnelmaan. Olen käynyt Venäjällä melko usein aikaisemminkin. Aikoinaan tein junamatkan maan halki Pekingiin. Moskovassa olen vieraillut muutamia kertoja. Kaliningradissakin olen viettänyt yllättävän paljon aikaa. Lisäksi meillä on aivan itärajan läheisyydessä todella mielenkiintoinen miljoonakaupunki, Pietari. Matkalla Georgiaan, yöjunien kabiineissa kiskojen kolinaa kuunnellen, oli aikaa mietiskellä, niin -- Venäjää. Venäjä on minulle, satunnaiselle turistille, hämmentävä maa: moniulotteinen ja rosoinen, mutta myös arvaamaton ja ristiriitainen.
 
