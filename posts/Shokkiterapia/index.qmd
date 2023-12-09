@@ -8,7 +8,7 @@ image: "images/shokki.jpeg"
 
 Vuoden 1989 itsenäistyminen ja sitä seuraavat vuodet merkitsivät Puolalle käännekohtaa, kun maa siirtyi keskitetystä suunnitelmataloudesta markkinavetoiseen järjestelmään. Puolan talous, jota rasittivat vanhentuneet teolliset rakenteet, vaati radikaalia uudistusta, minkä vuoksi hallitus ryhtyi "shokkihoitoon" nopeuttaakseen siirtymää. Tämä ajanjakso ei muuttanut ainoastaan taloutta, vaan myös yhteiskuntaa muokattiin uudelleen. Uusi järjestelmä loi uusia mahdollisuuksia ja horjutti vakiintuneita normeja. Edistyksen lupausten keskellä oli kuitenkin eriarvoisuuden ja epäluottamuksen varjoja, jotka loivat pohjan yhteiskunnalliselle kehitykselle 2000-luvulla.
 
-## Shokkiterapia
+### Shokkiterapia
 
 1980-luvun lopulla kommunistinen talousjärjestelmä oli romahtamaisillaan, ja Puolan talous oli syöksykierteessä. Vaikka ulkomaanvelan säännöllisiä uudelleenjärjestelyjä toteutettiin kerta toisensa jälkeen, tosiasialliset velanhoitokulut pysyivät merkittävinä, mikä pakotti viranomaisten rajoittamaan tuontia ja kiristämään kotimaista kulutusta. Vuonna 1988 lanseeratun, kuitenkin tuloksettomaksi osoittautuneen säästöohjelman tavoitteena oli leikata tukia ja purkaa hintasäätelyä, mutta kansan tuen puuttuessa se johti kierteeseen, joka ajoi Puolan lähes hyperinflaatioon vuoden 1989 jälkipuoliskolla.[^1]
 
@@ -26,7 +26,7 @@ Puolan mielipidetutkimuslaitoksen (CBOS) kyselyiden mukaan vuonna 1992 vain 2 % 
 
 [^4]: Public opinion research center (CBOS)
 
-## Talous
+### Talous
 
 Talouden pysähdys oli hätkähdyttävä. Lokakuuhun 1989 mennessä kuluttajahintainflaatio oli noussut 55 prosenttiin kuukaudessa, ja vuoden 1990 alussa Puola oli hyperinflaation partaalla (vuoden aikana inflaatio oli keskimäärin 256 prosenttia). Ruoan ja kestotavaroiden hinnat nousivat jyrkästi. Lämmityksen ja sähkön osuus suhteessa palkan määrään nousi yli nelinkertaiseksi. 1990 reaalinen bruttokansantuote laski yli seitsemän prosenttia.[^5] Inflaation häntä oli pitkä ja se laski alle kaksinumeroisen tason vasta vuonna 1999 (7,15 %). Puola erottuu kuitenkin muista maista huomattavan voimakkaan kasvun ansiosta: vuoteen 1999 mennessä sen reaalinen BKT oli kasvanut 28 prosenttia vuodesta 1989, mihin vain muutama muu maa pystyi.
 
@@ -56,7 +56,7 @@ Lisäksi oli myös tarpeita, jotka tulivat perustarpeiden jälkeen. Kommunismin 
 
 [^12]: ibid. 2005.
 
-## Eriarvoisuus
+### Eriarvoisuus
 
 Venäjällä, itäblokin maissa ja monissa muissa entisen Neuvostoliiton alueilla epätasa-arvo kasvoi voimakkaasti siirtymäkauden aikana. Suurin osa maista koki merkittävää eriarvoisuuden lisääntymistä siirtymäkauden ensimmäisen vuosikymmenen aikana, ja talouskasvu oli hidasta, mikä johti niiden bruttokansantuotteen jäämiseen kauas siirtymäkauden edeltävistä tasoista. Esimerkiksi Venäjällä tuloerot saavuttivat huippunsa vuonna 1996, jolloin se oli 64 %, ja maan bruttokansantuote oli vain hieman yli kaksi kolmasosaa ennen siirtymäkautta olevasta tasostaan. Tämä haitallinen yhdistelmä vähentyneitä keskituloja ja lisääntynyttä epätasa-arvoa johti köyhyyden dramaattiseen kasvuun kotitalouksissa.[^13]
 
@@ -68,7 +68,7 @@ Entisistä kommunistimaista Puola oli kuitenkin mielenkiintoinen poikkeus. Kun m
 
 [^15]: The World Bank.
 
-## Vaikutukset
+### Vaikutukset
 
 Kuten edellä on käynyt ilmi, Puolalle siirtymävaihe tuotti äärimmäisiä taloudellisia ja sosiaalisia vaikutuksia. Puola on kuitenkin siitä mielenkiintoinen poikkeus moniin muihin siirtymävaiheen maihin verrattuna, että nämä dramaattiset tapahtumat eivät juurikaan näy demografisissa tilastoissa. Toisin kuin muissa maissa, koko 1990-luvun ajan Puolassa eliniänodote jatkoi kasvuaan, aikuisten kuolleisuusasteessa oli trendinomainen lasku. Myös vakavien väkivaltarikosten määrä pysy erittäin alhaisena.[^16] Jopa tilastoitu alkoholin kulutus pysyi melko tasaisena, vaikkakin kulutuksen voidaan arvella kasvaneen tilastojen ulkopuolella.[^17] Itsemurhien määrässä voidaan nähdä nousua vuosien 1989 ja 1992 välillä, sekin tasoittuu tämän jälkeen.[^18] Köyhyys oli joka tapauksessa laajasti läsnä puolalaisessa yhteiskunnassa. Vuoteen 2000 tultaessa köyhyydessä elävän väestön osuus oli edelleen 13 prosenttia.[^19]
 
@@ -86,13 +86,13 @@ Mitä Puola teki oikein? Vaikeassa taloudellisessa tilanteessa Puola jatkoi yksi
 
 [^21]: European Bank for Reconstruction and Development
 
-## Lopuksi
+### Lopuksi
 
 Vaikka Puola oli hieno esimerkki onnistuneesta siirtymästä kommunismista kapitalismiin, monet vuonna 1990 koetut toiveet markkinatalouden auvoisuudesta eivät käyneet toteen. Iso osa puolalaista, jotka odottivat laajaa tavaroiden saatavuutta ja taloudellista turvallisuutta, valitettavasti kohtasivat todellisen köyhyyden ensimmäistä kertaa elämässään. Kaupunkien ja maaseudun välinen kuilu syventyi kasvattaen tuloeroja ja menestymisen mahdollisuuksia. Työttömyys kasvoi ja elintaso laski. Ne, jotka kamppailivat perustarpeiden, kuten ruoan, asumisen ja terveydenhuollon, kanssa, kuuluivat niihin yhteiskunnan osiin, jotka eivät ole hyötyneet 1990-luvun taloudellisista ja poliittisista muutoksista. Monet vertasivat nykyisyyttä menneeseen ja joutuivat pettymään. Kun aikaisemmin alhaiset tulot korvattiin sosiaalisilla turvaverkoilla, jotka tarjosivat ilmaista koulutusta, pääsyn kulttuuritapahtumiin ja sairaanhoitoa, niin tätä ei ollutkaan enää saatavilla samalla tavalla.
 
 Aikakauden seuraukset olivat syvällisiä. Vaikka talouden uudistaminen oli välttämätöntä edistyksen kannalta, se ei tullut ilman tragedioita, jotka jättivät pysyviä jälkiä maan sosiaaliseen, taloudelliseen ja kulttuuriseen identiteettiin. On todennäköistä, että ne näkyvät Puolan yhteiskunnassa ja politiikassa vielä tänäkin päivänä.
 
-## Lähteet
+### Lähteet
 
 Bronson, D. E., Kunovich, S., & Frysztacki, K (2005). The impact of the economic transition in Poland on vulnerable populations. *Journal of Family and Economic Issues*, *26*(2), 225--238. <https://doi.org/10.1007/s10834-005-3523-y>
 
