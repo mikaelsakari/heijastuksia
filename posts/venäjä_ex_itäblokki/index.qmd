@@ -3,10 +3,8 @@ title: "Eriarvoisuuden ja köyhyyden kehitys Venäjällä ja entisissä itäblok
 author: ""
 date: "2023-12-8"
 categories: [Analyysi, Eriarvoisuus, Köyhyys, Venäjä, Itäblokki]
-image: "images/inequalityuus.jpg"
+image: ""
 ---
-
-![](images/inequalityuus.jpg)
 
 ### Johdanto
 
