@@ -1,8 +1,8 @@
 ---
 title: "Eriarvoisuuden ja köyhyyden kehitys Venäjällä ja entisissä itäblokin maissa"
 author: ""
-date: "2021-4-4"
-categories: [Analyysi, Eriarvoisuus]
+date: "2023-12-8"
+categories: [Analyysi, Eriarvoisuus, Köyhyys, Venäjä, Itäblokki]
 image: ""
 ---
 
@@ -32,7 +32,7 @@ Verotuksella on suuri vaikutus maiden Gini-indeksiin, kuten voimme havaita *kuva
 
 [^1]: Joe Hasell, Pablo Arriagada, Esteban Ortiz-Ospina and Max Roser (2023) - "Economic Inequality" Published online at OurWorldInData.org. Retrieved from: '[https://ourworldindata.org/economic-inequality'](https://ourworldindata.org/economic-inequality') \[Online Resource\]
 
-![***Kuva 3***](images/inequality_tax-02.png){alt="Kuva 3" fig-align="center"}
+![***Kuva 3***](images/inequality_tax.png){alt="Kuva 3" fig-align="center"}
 
 ### Köyhyys
 
