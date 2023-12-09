@@ -3,8 +3,10 @@ title: "Eriarvoisuuden ja köyhyyden kehitys Venäjällä ja entisissä itäblok
 author: ""
 date: "2023-12-8"
 categories: [Analyysi, Eriarvoisuus, Köyhyys, Venäjä, Itäblokki]
-image: ""
+image: "images/inequalityuus.jpg"
 ---
+
+![](images/inequalityuus.jpg){fig-align="center"}
 
 ### Johdanto
 
@@ -16,7 +18,7 @@ Tässä esseessä tarkastelen Venäjän ja itäblokin maiden eriarvoisuuskehitys
 
 Venäjällä, entisissä itäblokin maissa ja monissa muissakin entisen Neuvostoliiton alueilla eriarvoisuus lisääntyi voimakkaasti siirtymäkauden ensimmäisen vuosikymmenen aikana. Talouskasvu oli hidasta ensimmäisten vuosien aikana, minkä seurauksena keskimääräiset tulot jäivät paljon alle siirtymävaihetta edeltäneen tason. Esimerkiksi Venäjällä, ennen Neuvostoliiton romahdusta, ainoastaan suurituloisin kymmenes pystyi radikaalisti kasvattamaan tulojaan, mutta Neuvostoliiton romahduksen jälkeen ja siirtymävaiheen aikana tulojen romahdus oli sitäkin suurempi. Jokaisessa maassa ja jokaisessa tulodesiilissä ihmisten tulot romahtivat katastrofaalisesti, erityisesti mitä pienituloisempaan joukkoon kuului. Kuten *kuvasta 1* voimme nähdä, Venäjällä vuosien 1988--1996 välillä viidennen tulodesiilin keskimääräiset tulot tippuivat noin 60 % ja kaikkein pienituloisimmilla jopa lähes 90 %.
 
-![***Kuva 1***](images/Inequality.jpg){alt="Kuva 1" fig-align="center"}
+![Kuva 1](images/Inequality.jpg){fig-align="center"}
 
 *Kuvasta 1* voimme myös havaita, että siirtymävaiheen vaikutukset olivat yleisesti samankaltaisia kaikissa maissa, vaikka entisissä itäblokin maissa keskimääräisten tulojen lasku ei ollut aivan yhtä dramaattinen kuin Venäjällä. Silti jokaisen tulodesiilin keskimääräiset tulot enemmän tai vähemmän romahtivat. Bulgariassa talouden radikaali uudistus aloitettiin muita maita myöhemmin. Siellä suurituloisin kymmenys kasvatti tulotasoaan 1990-luvun ensimmäisellä puoliskolla, mutta vuonna 1996, kun talousuudistukset alkoivat, myös kaikkein suurituloisimman väestönosan tulot romahtivat. Kun siirtymävaiheen uudistukset olivat jonkin aikaa vaikuttaneet, useat maat pystyivät kasvattamaan keskimääräisiä tulotasojaan jokaisella desiilitasolla. Ainoastaan Romaniassa ja Bulgariassa köyhimmän tulodesiilin tulot jämähtivät paikoilleen, ja tämä on kasvattanut maiden tuloeroja jo vuosia.
 
@@ -24,7 +26,7 @@ Gini-indeksillä mitattuna (*kuva 1: musta katkoviiva*) eriarvoisuuden kehitys o
 
 Entisissä itäblokin maissa taloudellinen eriarvoisuus myös kasvoi, mutta Puolassa, Tšekissä ja Unkarissa maltillisemmin kuin Romaniassa ja Bulgariassa. Näissä niin sanotuissa Visegrad-maissa eriarvoisuus on siirtymävaiheen jälkeen stabiloitunut tai lähtenyt jopa laskuun. Kuten *kuvasta 2* voimme nähdä jokaisessa maassa kaikista suurituloisin kymmenys kasvattivat suhteellista osuuttaan muihin tulodesiileihin verrattuna. Venäjällä rikkain kymmenes kasvattivat suhteellista osuuttaan siirtymävaiheen alussa, kunnes heidän osuus romahti lähes 20 %-yksiköllä. Romaniassa siirtymävaiheen uudistukset johtivat rikkaimman kymmenyksen osuuden kasvamiseen jopa pitkälle 2000-luvun lopulle saakka, kunnes nousu pysähtyi ja eriarvoisuus kääntyi laskuun. Bulgariassa rikkain kymmenes on kasvattanut suhteellista osuuttaan taloudesta 2000-luvun puolivälistä saakka ja taloudellinen eriarvoisuus on jatkanut kasvuaan näihin vuosiin saakka. Romaniassa ja Bulgariassa alimmat desiilit ovat menettänyt suhteellista osuuttaan taloudesta rikkaimpien kustannuksella, joka on kasvattanut maissa eriarvoisuutta.
 
-![***Kuva 2***](images/inequality_2.jpg){alt="Kuva 2" fig-align="center"}
+![Kuva 2](images/inequality_2.jpg){fig-align="center"}
 
 Kuten *kuvasta 2* voimme havaita, talous koki valtavan kolauksen, kun maat siirtyivät kommunistisesta talousjärjestelmästä kapitalismiin. Venäjällä asukaskohtainen bruttokansantuote suorastaan romahti (*kuva 2: musta katkoviiva*). Mielenkiintoista on, että Puolassa ja Unkarissa bruttokansantuotteella mitattuna siirtymävaiheen vaikutus oli maltillinen, kun Bulgariassa, Romaniassa ja erityisesti Venäjällä se oli pitkäaikainen ja syvä. Joka tapauksessa uudistusten myötä bruttokansantuote lähti ennemmin tai myöhemmin nopeaan nousuun: Puolassa, Unkarissa ja Tšekeissä nopeammin kuin muissa maissa. Euroopan jälleenrakennus- ja kehityspankin (ERDB) raporttien mukaan nämä olivatkin maita, jotka olivat uudistusohjelmien parhaita suorittajia, joissa mitattiin liberalisaation, yksityistämisen, yritysten, infrastruktuurin, finanssi-instituutioiden ja oikeudellisen ympäristön tilaa. Muutosohjelmien hyvä toteuttaminen herätti luottoa myös kansainvälisesti. Teollisuuden tuotanto ja tuottavuus sekä ulkomaiset investoinnit kasvoivat muita siirtymämaita nopeammin, jotka mahdollistivat kestävämmän talouskasvun.
 
@@ -32,13 +34,13 @@ Verotuksella on suuri vaikutus maiden Gini-indeksiin, kuten voimme havaita *kuva
 
 [^1]: Joe Hasell, Pablo Arriagada, Esteban Ortiz-Ospina and Max Roser (2023) - "Economic Inequality" Published online at OurWorldInData.org. Retrieved from: '[https://ourworldindata.org/economic-inequality'](https://ourworldindata.org/economic-inequality') \[Online Resource\]
 
-![***Kuva 3***](images/inequality_tax.png){alt="Kuva 3" fig-align="center"}
+![Kuva 3](images/inequality_tax.png){fig-align="center"}
 
 ### Köyhyys
 
 Negatiivinen yhdistelmä keskimääräisten tulojen laskua ja eriarvoisuuden kasvua johti kotitalouksien köyhyyden dramaattiseen lisääntymiseen. Kuten *kuvasta 4* voimme nähdä, ihmisiä putosi jopa äärimmäiseen köyhyyteen (alle 2,15 \$) siirtymävaiheen aikana. Suhteellisesti kaikista dramaattisin köyhyyden lisääntyminen tapahtui Romaniassa, jossa jopa 8 % väestöstä eli äärimmäisessä köyhyydessä 1990-luvun alussa. Bulgariassa, ja ajoittain Romaniassakin, äärimmäinen köyhyys on ollut pysyvä asiaintila 1990-luvulta saakka. Kuten saatamme havaita ainoastaan Tšekeissä äärimmäistä köyhyyttä ei juurikaan esiintynyt. Joka tapauksessa siirtymävaihe oli dramaattinen muutos ihmisten elämään. Venäjällä tämä tarkoitti pahimmillaan sitä, että lähes seitsemän miljoonaa ihmistä, Romaniassa kaksi miljoonaa ja Puolassa miljoona ihmistä eli äärimmäisessä köyhyydessä; todellisuudessa, jolle on ominaista ihmisten perustarpeiden, kuten ruoan, puhtaan juomaveden, sanitaation, terveydenhuollon, suojan, koulutuksen ja tiedon puute.
 
-![***Kuva 4***](images/poverty.jpg){alt="Kuva 4" fig-align="center"}
+![Kuva 4](images/poverty.jpg){fig-align="center"}
 
 Jos mahdollista, tilanne oli vieläkin karumpi, jos tarkastelemme Maailmanpankin alemman keskitulotason maihin käytettyä köyhyyden raja-arvoa, joka on 3,65 dollaria päivässä. Kun otan kynnykseksi vuoden 1995, jolloin kaikki tarkastelussa olevat maat luokiteltiin alemman keskitulotason maiksi, niin tällöin [Maailmanpankin datan mukaan](https://ourworldindata.org/explorers/poverty-explorer?tab=chart&time=1989..latest&facet=entity&country=POL~RUS~HUN~CZE~ROU~BGR&pickerSort=desc&pickerMetric=headcount_ratio_365&Indicator=Share+in+poverty&Poverty+line=%243.65+per+day%3A+Lower-middle+income+poverty+line&Household+survey+data+type=Show+data+from+both+income+and+consumption+surveys&Show+breaks+between+less+comparable+surveys=false "Share of population living on less than $3.65 a day, 1989 to 2020") Venäjällä pahimmillaan yli 15 %, Puolassa yli 20 % ja Romaniassa jopa lähes puolet väestöstä eli alle 3,85 \$ päivässä. Vuoteen 2005 tultaessa kaikki maat olivat nousseet ylemmän keskitulotason maiksi, mutta monessa maassa köyhyys oli alati läsnä.
 
