@@ -3,10 +3,10 @@ title: "Eriarvoisuuden ja köyhyyden kehitys Venäjällä ja entisissä itäblok
 author: ""
 date: "2023-12-8"
 categories: [Analyysi, Eriarvoisuus, Köyhyys, Venäjä, Itäblokki]
-image: "images/inequality3-1024x615.jpg"
+image: "images/inequalityuus.jpg"
 ---
 
-![](images/inequality3-1024x615.jpg){fig-align="center"}
+![](images/inequalityuus.jpg)
 
 ### Johdanto
 
@@ -18,7 +18,7 @@ Tässä esseessä tarkastelen Venäjän ja itäblokin maiden eriarvoisuuskehitys
 
 Venäjällä, entisissä itäblokin maissa ja monissa muissakin entisen Neuvostoliiton alueilla eriarvoisuus lisääntyi voimakkaasti siirtymäkauden ensimmäisen vuosikymmenen aikana. Talouskasvu oli hidasta ensimmäisten vuosien aikana, minkä seurauksena keskimääräiset tulot jäivät paljon alle siirtymävaihetta edeltäneen tason. Esimerkiksi Venäjällä, ennen Neuvostoliiton romahdusta, ainoastaan suurituloisin kymmenes pystyi radikaalisti kasvattamaan tulojaan, mutta Neuvostoliiton romahduksen jälkeen ja siirtymävaiheen aikana tulojen romahdus oli sitäkin suurempi. Jokaisessa maassa ja jokaisessa tulodesiilissä ihmisten tulot romahtivat katastrofaalisesti, erityisesti mitä pienituloisempaan joukkoon kuului. Kuten *kuvasta 1* voimme nähdä, Venäjällä vuosien 1988--1996 välillä viidennen tulodesiilin keskimääräiset tulot tippuivat noin 60 % ja kaikkein pienituloisimmilla jopa lähes 90 %.
 
-![***Kuva 1***](images/Inequality.jpg){fig-alt="Kunva1" fig-align="center"}
+![***Kuva 1***](images/Inequality.jpg){fig-align="center"}
 
 *Kuvasta 1* voimme myös havaita, että siirtymävaiheen vaikutukset olivat yleisesti samankaltaisia kaikissa maissa, vaikka entisissä itäblokin maissa keskimääräisten tulojen lasku ei ollut aivan yhtä dramaattinen kuin Venäjällä. Silti jokaisen tulodesiilin keskimääräiset tulot enemmän tai vähemmän romahtivat. Bulgariassa talouden radikaali uudistus aloitettiin muita maita myöhemmin. Siellä suurituloisin kymmenys kasvatti tulotasoaan 1990-luvun ensimmäisellä puoliskolla, mutta vuonna 1996, kun talousuudistukset alkoivat, myös kaikkein suurituloisimman väestönosan tulot romahtivat. Kun siirtymävaiheen uudistukset olivat jonkin aikaa vaikuttaneet, useat maat pystyivät kasvattamaan keskimääräisiä tulotasojaan jokaisella desiilitasolla. Ainoastaan Romaniassa ja Bulgariassa köyhimmän tulodesiilin tulot jämähtivät paikoilleen, ja tämä on kasvattanut maiden tuloeroja jo vuosia.
 
