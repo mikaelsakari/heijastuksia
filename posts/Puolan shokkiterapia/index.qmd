@@ -1,0 +1,115 @@
+---
+title: "Gulag ja suomalaisten kokemukset"
+author: ""
+date: "2022-11-10"
+categories: [Analyysi, Gulag, Venäjä, Neuvostoliitto]
+image: "images/gulag.jpeg"
+---
+
+Vuonna 1917 Venäjän yli pyyhki kaksi vallankumouksen aaltoa, jotka kaatoivat keisarikunnan historian hämärään. Bolševikit kaappasivat vallan ja uusi neuvostovaltio syntyi. Vallankumouksen ja sisällissodan väkivaltainen tausta antoi lähtölaukauksen ensimmäisille työleireille. Kuten monet muutkin asiat neuvostovaltiossa, ne syntyivät improvisoiden ja reaktiona kiireeseen. Gulag ei kuitenkaan syntynyt tyhjiössä. 1600-luvulta 1900-luvulle toimineet Venäjän keisarikunnan pakkotyöprikaatit Siperiassa olivat käytäntöineen ja sovellutuksineen gulag-järjestelmän edeltäjiä. Tsaarin aikaista vankilalaitosta ei ollut tarkoitettu ainoastaan rikollisille, kuten ei myöskään gulagia. Molemmat järjestelmät imivät rikollisten lisäksi henkilöitä, jotka olivat virkavallan tai kyläyhteisön mielestä poliittisesti, etnisesti tai muulla tapaa epäilyttäviä.[^1] Virallisten aineiston mukaan gulagissa oli vuosien 1930--1955 aikana 17--18 miljoonaa vankia, joista 1,7 miljoonaa ihmistä kuoli. Kuitenkin, kuten Mikhail Nakonechnyi on tutkimuksessaan selvittänyt, luku voi olla ainakin 20 % suurempi, koska moni kuoli lähes välittömästi "vapauduttuaan" leiriltä invalideina. Heitä ei rekisteröity virallisesti leireillä kuolleiksi, vaikka lopullinen kuolinsyy oli peräisin vankileiriltä.[^2]
+
+[^1]: Applebaum 2022, 14, 29, 43-45; Ropponen & Sutinen 2019, 19.
+
+[^2]: Nakonechnyi 2022.
+
+Kirjoitan gulagin synnystä ja kuinka se laajeni. Kirjoitan myös suomalaisten leirivankien sekä naisten ja lasten kohtaloista gulagissa. Sana gulag tulee lyhenteenä sanoista *Glavnoje upravlenije lagerei* eli "leirien päähallinto". Käytän gulagia yleisnimikkeenä, jonka sisään mahtuvat niin vankilat, pakkotyöleirit kuin karkotettujen siirtolat.
+
+### Leirien synty
+
+Neuvostovaltion luomisen vanavedessä esiin nousi uudenlainen rikollistyyppi, "luokkavihollinen" tai "kansanvihollinen", joka vastusti bolševikkien vallankumousta ja toimi häikäilemättömästi sitä vastaan. Vladimir Leninin näkemyksiin sopi käsitys porvarisuudesta rikoksena ja leireistä rangaistusmuotona. Luokkavihollinen oli neuvostovaltiossa erityinen tapaus. Häntä piti rangaista voimakkaammin kuin tavallista rikoksentekijää, koska luokkavihollisen havaitseminen ja parantaminen oli paljon vaativampaa. Poliittisten vankien kategoria oli bolshevikeille erityinen. Entisinä liittolaisina tsaarinvaltaa vastaan menshevikit, sosialistivallankumoukselliset ja anarkistit olivat luopioita ja ansaitsivat erityiskohtelun, ja joita vastaan suurin viha tuli kohdistaa.[^3]
+
+[^3]: Applebaum 2022, 45-46, 54.
+
+Neuvostovaltion alusta saakka bolševikit tuomitsivat ihmisiä heidän persoonansa ja käyttäytymisen perusteella, ei mitä he todella tekivät. Luokkavihollisuuden määritelmä oli lavea, eikä kukaan oikein tiennyt, mitä se lopulta tarkoittaa: miltä luokkavihollinen näytti tai miten hän käyttäytyi? Tämän johdosta pidätykset lisääntyivät vallankumouksen edetessä. Vankilat täyttyivät. Heitä siirrettiin tyhjiin kellareihin, ullakoihin, palatseihin ja kirkkoihin. Vangit elivät kauheissa olosuhteissa ahtaasti ja nälkää näkien. Bolševikit eivät kuitenkaan voineet sallia, että luokkaviholliset elivät samassa paikassa tavallisten rikollisten kanssa, joten heitä ryhdyttiin siirtämään keskitysleireihin. Elokuussa 1918 Lenin vaati sulkemaan kulakit ja muut epäluotettavat henkilöt keskitysleireille (ns. "erityisleireille") kaupungin ulkopuolelle, jossa tilat olivat valmiina ja tyhjinä. Leirit olivat aikaisemmin tarkoitettu kahdelle miljoonalle sotavangille, mutta heidät oli sodan päättymisen myötä sittemmin vapautettu. Neuvosto-Venäjän salainen poliisi, Tšeka, otti leirit komentoon. Venäjän sisällissodan jälkeen leirit olivat jo vakiintuneet osaksi koko neuvostojärjestelmää, mutta niiden tarkoitus jäi kuitenkin sekavaksi koko vuosikymmeneksi. Erot "tavallisen" vankilan, "erityisleirin" ja "pakkotyön" määrittelyissä vaihtelivat ja niistä vastuussa olevia byrokraatteja ja instansseja luotiin ja muuteltiin usein. Neuvostoliittoon oli kuitenkin syntynyt kaksi erillistä rangaistuslaitosta, "tavallinen" vankila ja keskitysleiri, joissa säännöt ja ideologiat poikkesivat toisistaan.[^4]
+
+[^4]: ibid., 49--53.
+
+Vladimir Leninin kuoleman jälkeen Josif Stalin nousi neljän vuoden mittaisen valtataistelun voittajaksi ja Neuvostoliiton diktaattoriksi, joka toi lisäkierroksia sortotoimiin ja poliittisesti motivoituneisiin vainoihin. Pakkotyöleirien määrä alkoi laajeta 1920-luvun puolivälistä lähtien, ja niitä perustettiin ensin Karjalaan, Venäjän pohjoisosiin ja lopulta maan jokaiseen nurkkaukseen saakka. Neuvostoliittoon syntyi vankileirien verkosto, jonka keskeiseksi tehtäväksi muodostui sosialismin rakentaminen ja maan teollistaminen pakkotyön avulla. Junakolonnat syöttivät vankileireille pakkotyöläisiä jatkuvasti lisää.[^5] Vuosien 1928--1932 pakkokollektivoinnin aikana noin kaksi miljoonaa "kulakkia" karkotettiin syrjäseutujen leireille ilman oikeudenkäyntejä. Nämä karkotukset vakiinnuttivat ja kasvattivat huomattavasti Neuvostoliiton vankileirijärjestelmää.[^6] Vallankumouksen jälkeen gulagia oli hallinnut aluksi Tšeka, sitten GPU (Neuvosto-Venäjän salainen poliisi) ja OGPU (Joint State Political Directorate), kunnes OGPU sulautettiin sisäasiain kansankomissariaattiin, NKVD:hen, joka otti vankileirit komentoonsa vuonna 1934. NKVD sai mahdollisuuden kaikkiin rankaisupolitiikan käytäntöihin.[^7]
+
+[^5]: Vettenenniemi 2004, 12--13.
+
+[^6]: Ropponen & Sutinen 2019, 67--69.
+
+[^7]: ibid., 71; Vettenniemi 2004, 14-15.
+
+### Stalin ja suuri terrori
+
+Neuvostoliiton valtiollisen sorron ehkä tunnetuin jakso on Stalinin vainot vuosina 1936--1938. Suuri terrori tapahtui osittain Gulgista riippumatta, mutta sillä oli valtava vaikutus vankileirien laajenemiseen. Gulagiin vangittujen määrät kaksinkertaistuivat vainojen aikaan miljoonasta noin 1,8 miljoonaan. Monet uhrit eivät kuitenkaan ehtineen vankileireille asti vaan heidät teloitettiin nopeasti.
+
+Mikä johti vainoihin? Josif Stalinin valtaantulon myötä kansallisia vähemmistöjä kohtaan toteutettu edistyksellinen politiikka alkoi tiukentua 1920-luvun lopulla. Ainakin kaksi keskeistä syytä selittävät sen, miksi Neuvostoliiton kansallisuuspolitiikassa tapahtui poliittinen täyskäännös. Ensinnäkin vähemmistökansojen positiiviselle diskriminaatiolle perustuva korenizatsija-politiikka oli tehnyt keskuksen ja periferian institutionaalisesta ristiriidasta etnisen jännitteen. Bolševikkien tavoite yhtenäisen neuvostokansan luomisesta vain loittoni, kun politiikan seurauksena oli syntynyt suuri määrä erilaisia kansallisia identiteettejä. Stalin oli myös hyvin tietoinen, että tyytymättömyyttä korenizatsija-politiikkaa kohtaan esiintyi erityisesti venäläisten keskuudessa, jotka kokivat joutuneensa ahtaalle kansallisissa tasavalloissa. Toiseksi, Stalinin poliittisten liikkeiden takia keskusvallan ja tasavaltojen etujen yhteensovittaminen oli muodostunut mahdottomaksi, kun pakkokollektivisointi ja -teollistaminen olivat kurjistaneet ja tappaneet kokonaisia kansoja. Etujen ristiriitaisuudet ja molemminpuolinen syvä epäluottamus johtivat siihen, ettei poliittisissa reformeissa kompromisseja ollut enää mahdollisia saavuttaa. Neuvostojohto ryhtyi taisteluun paikallista nationalismia vastaan ja venäläisyyttä alettiin korostamaan paikallisen identiteetin edelle. Vahvistaakseen neuvostovaltaa kansojen yhtenäisyyttä edistävänä tekijänä, neuvostojohto aloitti kampanjan rehabilitoidakseen perinteisen venäläisen kulttuurin ja isänmaallisuuden kunnian. Siirtyminen neuvostoliittolaisesta internationalismista venäläiseen nationalismiin palveli erityisesti keskitettyä neuvostohallintoa ja periferian tiukempaa kontrollointia.[^8]
+
+[^8]: Kangaspuro 2000, 261, 264--266.
+
+Stalinin puolueen keskuskomitean täysistunnossa maaliskuun alussa vuonna 1937 pitämää puhetta on pidetty suuren terrorin varsinaisena alkuna, jossa Stalin totesi, että neuvosto-organisaatioihin on kaikkialle levinnyt ulkomaalaisten agenttien vakoilu ja sabotaasi. Stalinin mukaan vallankumoukselliset voimat olivat tunkeutuneet neuvostojärjestelmän sisään alatasolta ylätasolle asti, josta Stalin syytti omia puoluetovereita niin keskuksessa kuin paikallistasolla. Puheen jälkeen suurin osa puna-armeijan johdosta teloitettiin. Heinäkuussa 1937 alkoi terrorin toinen aalto, kun puolueen johto antoi aina alueiden piiritasoille saakka määräyksen kulakkien, rikollisten, trotskilaisten ja muiden kiellettyjen ainesten puhdistamiseksi "neuvostovastaisista elementeistä". Sisäasiankomissariaatti, NKVD, määräsi paikallistasolta saatujen tietojen pohjalta eri alueiden tavoiteluvut teloitettavien ja vangittavien lukumääristä. Kiintiöitä myös tarvittaessa hilattiin ylöspäin. Määräykset mahdollistivat myös tuomittujen perheiden karkottamisen omalta asuinpaikkakunnalta. Suuren terrorin ensimmäinen aalto saavutti suomalaiset Karjalassa jo keväällä Stalinin maaliskuisen puheen jälkeen. Karjalassa asuvien suomalaisten paikallinen nationalismi linkittyi neuvostovastaiseen toimintaan eli sabotaasiin, vakoiluun, trotskilaisuuteen ja muuhun vastavallankumoukselliseen toimintaan. Suomalaisista tuli viholliskansa. Neuvostoliiton poliittisen ilmapiirin muutos tuntui kaikkialla suomalaisten keskuudessa ja vaino tapahtui kaikilla suomalaisten hallitsemilla aloilla. Terrorin myötä aloitettiin laajat venäläistämistoimenpiteet, jossa Suomen kielen käyttäminen ja suomenkielinen kirjallisuus kiellettiin.[^9]
+
+[^9]: Ylikangas 2004, 382--387; Kangaspuro 2000, 347, 371.
+
+1930-luvulla alkoivat Neuvostoliitossa nationalismin vastaiset kampanjat ja yhä laajenevat puhdistusoperaatiot, jotka kärjistyivät vuosien 1937--1938 välisenä aikana. Se oli mittava terrorin aalto, joka stalinistisen ideologian mukaan oli kommunistisen vallankumouksen kannalta välttämätön. Puhdistuksen nähtiin olevan viimeinen askel kohti kommunismia, jolla päästäisiin eroon ongelmista, joita ei ollut onnistuttu ratkaisemaan edellisen kahdenkymmenen vallankumousvuoden aikana. Puhdistus kohdistui kaikkiin, joiden uskottiin pystyvän aiheuttamaan neuvostovaltiolle vahinkoa---itse kommunistista puoluettakin oli ryhdytty puhdistamaan vuonna 1933. Terrorin tarve kasvoi sitä mukaan kuin mahdollisen sodan uhka kasvoi maailmantilanteen kiristymisen takia. Neuvostoliittoon tulleet emigrantit, vähemmistökansallisuudet ja rajaseuduilla asuvat ihmiset nähtiin mahdollisina viidentenä kolonnana, "kansanvihollisina", jotka automaattisesti leimattiin epäluotettavina vihollisleiriin kuuluvina henkilöinä. Tästä syystä esimerkiksi inkerin-, muurmannin- ja siperiansuomalaiset joutuivat heimoina kärsimään Stalinin terrorin laajasta tuhosta.[^10]
+
+[^10]: Ylikangas 2004, 367--369.
+
+### Suomalaiset gulagissa
+
+Suomalaista vankileirikirjallisuutta tai tutkimuksia suomalaisten kokemuksista gulagissa on verrattaen vähän. Suomalaisen Kirjallisuuden Seuran (SKS) Stalinin vainojen muistot -hankkeessa on tallennettu vainojen uhrien historiaa ja heidän jälkeläistensä kokemuksia vainoista, joista löytyy myös leirivankien muistelmia. Itse sain lyhyesti tutustua tähän aineistoon erään kurssin myötä. Myös Kansallisarkistossa on käynnissä tutkimushanke suomalaisten kohtaloista vuosien 1917--1964 Venäjällä. Molemmat tutkimushankkeet itsessään kuvastavat sitä, kuinka vähän suomalaisten vaiheista tiedetään niin gulagissa kuin Venäjällä ylipäätään.
+
+Tuhansia punaisia suomalaisia oli paennut vuoden 1918 sisällissodan jälkeen rajan yli. Bolševikkien myöntämän itsehallinnon turvin Itä-Karjalaan alettiin rakentamaan "suomalaista sosialismia", jonka ajateltiin laajentuvan vallankumouksen myötä lopulta punaiseksi Suur-Suomeksi. 1930-luvun alussa lännen suuri lama, Neuvostoliiton propaganda ja Lapuan liike aiheutti voimakkaan muuttoaallon itärajan yli. Maa kaipasi pätevää työvoimaa kollektiiveihin maan teollistamiseksi, ja arviolta 15 000 ihmistä saapui Neuvostoliittoon etsimään töitä, monissa tapauksissa myös perhekunnittain. Myös noin 6 500 amerikansuomalaista muutti Neuvostoliittoon rakentamaan uudenlaista yhteiskuntaa. Lisäksi Neuvostoliitossa vainojen kohteeksi joutui suomensukuisia vähemmistökansoja, joista suurin vähemmistö oli inkerinsuomalaiset. Inkerinsuomalaiset kärsivät mittavia tuhoja: 140 000 inkeriläisestä lähes kolmannes joko tapettiin tai siirrettiin pois kotiseudulta.[^11] Inkerinsuomalaiset eivät kuitenkaan olleet ainoita pakkosiirretyiksi joutuneita suomalaisvähemmistöjä: tutkija Anni Reuterin mukaan pakkosiirrettyjen suomalaisvähemmistöjen määrä on yhteensä jopa 130 000 henkeä.[^12]
+
+[^11]: Vettenniemi 2004, 43-48, 168; Karjalan tasavallan Kansallisarkisto.
+
+[^12]: Keskustelemuksia -podcast.
+
+Erkki Vettenniemi kertoo väitöskirjassaan suomalaisten kokemuksista gulagissa, joista mainitsen lyhyesti muutaman. Solovetskin saarille vangittu suomalainen Boris Cederholm kuvailee vuonna 1929 ilmestyneessä kirjassaan "Punainen painajainen" saarilla kokonaisen vuoden viettäneiden vankien ulkomuotoa: *"He olivat luurankoja, joiden hampaatonta suuta peittää pingottunut nahka, heidän silmänsä vuotavat vettä eivätkä he kävele, vaan laahustavat".* Katkeran kohtalon koki myös Fanni Pyykkö, joka muutti perheensä kanssa Neuvostoliittoon vuonna 1932 vain palatakseen yksin Suomeen vuonna 1956. Pyykkö kertoo muistelmissaan, että aluksi perhe siirrettiin rajan läheisyydestä, Karjalasta, syvemmälle Venäjään ja Uralin taakse, jossa Pyykön tytär kuoli sairauksiin ja puoliso vangittiin vuonna 1936. Pyykkö itse vangittiin vakoilusta vuonna 1942. Vapauduttuaan Siperian vankileiriltä hän sai kuulla poikansa kuolleen nälkään. Suomalaisten gulag-muistelmista mukaan mahtuu myös Oskar Himiläisen melko poikkeavakin todistus. Vettenniemen mukaan Himiläinen oli ainoa suomalainen todistaja, jolla oli kokemusta Siperian Auschwitziksikin kutsutusta Kolyman leiriltä. Kuten yleisesti 1930-luvun Neuvostoliitossa, Himiläinen vangittiin "*kaiken varalta*". Hän kuitenkin suoritti työvelvollisuutensa niin tunnollisesti ja ahkerasti, että hänet vapautettiin leiriltä ennenaikaisesti. Erikoista oli se, ettei Himiläinen ei olisi halunnut poistua Kolymasta, vaan viranomaisten oli pakotettava hänet lähtemään leiriltä.[^13]
+
+[^13]: Vettenniemi 2004, 93, 131, 146.
+
+Yleisesti ottaen gulagissa työolosuhteet olivat hirvittävät: työpäivät olivat epäinhimillisen raskaita ja pitkiä, ruoasta oli pulaa tai se oli syömäkelvotonta ja tartuntataudit levisivät ihmisten keskuudessa. Stalinin terrorissa kuoli tai katosi 8 000--25 000 suomalaista. Arviot uhrien määrästä vaihtelee, mutta luvut ovat joka tapauksessa valtavat: vähimmillään uhrien määrät ovat samat kuin Suomen sisällissodassa, suurimmillaan kuin talvisodassa.[^14]
+
+[^14]: Suomalaisen Kirjallisuuden Seura (SKS).
+
+### Gulagin naiset ja lapset
+
+Gulagin tarina on kerrottu pitkälti miesten näkökulmasta. Vangit olivat miehiä, joita vartioivat miehet. Miehet työskentelivät, kuolivat ja pakenivat. Vaikka gulag-koneiston läpi kulkeneista, tai sille tielle jääneistä ihmisistä suurin osa oli miehiä, niin vankileirien kohtalon koki myös huomattavan suuri määrä naisia ja lapsia. Naiset ja alaikäiset lapset, kuten suurin osa muistakin vangeista, olivat usein syyttöminä tuomittu, mutta myös miesten ja isien vuoksi. Neuvostoliiton laki mahdollisti tuomittujen poliittisten vankien puolisoiden vangitsemisen, mutta laki harvemmin kohdistui päinvastoin eli tuomittujen naisten aviomiehiin. Naispuolisille vangeille oli järjestetty myös erityisleirejä, kuten "maanpetturien vaimojen" leirejä, joihin ei tuotu muita vankeja. Naisvankien määrä gulagissa vaihteli eri vuosina ja eri leirien välillä. Toisen maailmansodan aikaan heitä oli enemmän, mutta sen loputtua vähemmän. Yleisesti ottaen kuitenkin naisia oli 10--20 % leirien kokonaismäärästä. Lapsia gulagissa oli vähemmän, mutta Neuvostoliitossa ei ollut mitään vakiintunutta käytäntöä vangittujen vanhempien lasten kohtelulle. Useat lapset saapuivat gulagiin äitien mukana, ja esimerkiksi 1930-luvun puhdistusten aikana yli sata tuhatta orpolasta lähetettiin NKVD:n työsiirtoloihin. Ennen sotaa säädettiin laki, jossa 12-vuotiaille voitiin tuomita täysimittaisiin rangaistuksiin, joten gulagissa työskenteli ja kärsi aikuisten lailla nykyisestä näkökulmasta katsoen myös lapsia.
+
+Naisten työ gulagissa ei juurikaan poikennut miesten työstä: leirien keittiötyöt kuuluivat miehille siinä missä naisillekin. Yleisenä huomiona on havaittu, että naisilla oli monipuolisempi selviytymisstrategia itsestä huolehtimiseen. He muun muassa parsivat vaatteita kalaruodoista tehdyillä neuloilla käyttäen hiuksia lankana. Miehet tekivät toki vastaavaa, mutta naisilla itsestä huolehtiminen vaikutti olevan yleisempää. Huolenpito itsestä oli gulagissa ensiarvoisen tärkeää, josta luopuminen ennakoi nopeaa romahdusta. Vastaavia mahdollisuuksia ei ollut lapsilla, jotka tarvitsivat välttämättä apua aikuisilta. Nuorten alaikäisten lasten pakkotyö aikuisten mukana oli tavallista. Pienimmät lapset tekivät kevyempää työtä, lähinnä siivosivat asumuksiaan. Osalle lapsista selviytymisstrategiaksi muodostui kriminaali elämäntapa, joka jatkui lopulta myös vankileirien ulkopuolella.[^15]
+
+[^15]: Ropponen ja Sutinen 2019, 118--120.
+
+Naisvankeja raiskattiin yleisesti ja leireillä syntyi paljon lapsia. Naisilla saattoi leirillä olla vartijoiden joukossa suojelijoita, joka turvasivat naisia muilta miehiltä seksuaalisten palvelusten hinnalla. Naiset joskus pyrkivät tulemaan myös tarkoituksella raskaaksi, koska usein luultiin sen tarkoittavan kevyempiä töitä ja parannuksia ruoan laatuun. Näin ei kuitenkaan aina ollut, vaan naiset joutuivat usein heti synnytyksen jälkeen takaisin töihin. Naisten leireillä oli usein osastoja, joissa vauvat elivät. Äidit päästettiin osastoille muutaman kerran päivässä imettämään, mutta imetyksen loppuessa käynnit harvenivat. Lasten todellisuus oli ainoastaan leirielämä, eivätkä he tunteneet mitään muuta. Kasvatus ja opetus oli olematonta, joidenkin lasten eläessä lähes eläimen tasolla.[^16]
+
+[^16]: Ropponen ja Sutinen 2019, 120.
+
+Gulagissa syntyi myös enemmän tai vähemmän todellisia romansseja vankien ja vartijoiden tai vankien välillä. Vaikka monilla leireillä mies- ja naisvankien fyysinen kohtaaminen oli miltei mahdotonta, niin viestejä saatiin lähetetyksi aitojen läpi. Joskus jopa solmittiin epävirallisia avioliittoja näkemättä kumppania. Rakkaus- ja kumppanuussuhteet saivat muuta pohdittavaa ja veivät ajatukset pois vankileirin kauheuksista ja yksinäisyydestä.[^17]
+
+[^17]: Ropponen ja Sutinen 2019, 123.
+
+Naiset eivät olleet ainoastaan gulagin uhreja, vaan he osallistuivat monella tavalla vankileirien toiminnan jatkumiseen. Naisten leireillä he toimivat usein vartijoina ja muissa leireissä he työskentelivät byrokraattisissa tehtävissä. Kuitenkin vankileirijärjestelmän suunnittelu ja päätökset olivat miesten käsissä. Neuvostoliiton tai NKVD:n johdossa tai muunkaan instituution tärkeimmillä paikoilla ei istunut naisia.[^18]
+
+[^18]: Ropponen ja Sutinen 2019, 121.
+
+### Lopuksi
+
+Neuvostoliiton harjoittama poliittinen väkivalta on massiivisuudessaan ja pitkäkestoisuudessaan maailmanhistorian yksi tuhoisimmista, ellei tuhoisin historiallinen ilmiö. Verrattuna Natsi-Saksan tuottamaan väkivaltaan, siitä on kirjoitettu suhteellisen vähän. Gulag oli "lihamylly", joka tuotti miljoonia tarpeettomia ja varhaisia kuolemia. Se erotti ja tuhosi kansalaisuudesta riippumatta niin miehiä, naisia kuin lapsia. Jokaisella heillä oli oma, mutta monella tapaa yhteinen tarina, jota gulag yhdisti. Neuvostojärjestelmä, puolueen yhtenäisyys, modernisaatio ja vallankumous loivat perusteen tuhota lukemattomia syyttömiä ihmisiä. Pienen joukon rikollisten kiinniottamiseksi, miljoonien täysin viattomien ihmisten henki asetettiin välittömään vaaraan. Vaino kohdistui kaikkialle Neuvostoliitossa, mutta erityisesti se koski Neuvostoliiton rajaseudulla asuvia vähemmistökansoja, kuten suomalaisia, joita pidettiin turvallisuuspoliittisena uhkana etnisten kontaktien takia.
+
+Suomalaisten kohtalot Neuvostoliitossa on varsin vähän tunnettu osa historiaa, joka on tuottanut vasta viime vuosina laajempaa kiinnostusta. Helsingin Sanomien toimittaja Unto Hämäläinen vaati tarkempaa selvitystä suomalaisuhrien kohtaloista Neuvostoliitossa, johon valtio myös reagoi. Sen myötä Kansallisarkisto alkoi tekemään virallista selvitystä aiheesta, jonka on määrä valmistua vuonna 2025. Miksi aihe ei ole kiinnostanut aikaisemmin? Isossa kuvassa voidaan ajatella, että Neuvostoliitto toisen maailmansodan voittajana ja lännen liittolaisena jätettiin huomiotta, koska Natsi-Saksan toteuttamat kauheudet ylittivät kaikki ymmärryksen rajat. Nürnbergin julkiset oikeudenkäynnit vetivät huomion pois gulageista, eikä niistä koskaan käyty samalla tavalla oikeutta. Tietoa ei myöskään ollut tarpeeksi. Neuvostoliiton arkistot olivat suljettuna sen romahtamiseen saakka. Suomen sodan jälkeinen historia Neuvostoliiton kyljessä on hyvin tunnettu kokonaisuus. Vuosikymmenten poliittinen ilmapiiri oli sellainen, ettei Neuvostoliittoa haluttu turhaan ärsyttää. Näillä on osansa siinä, miksi suomalaisten kohtaloita gulageissa ei ole tutkittu tarkemmin. Nyt on viimeistään se aika.
+
+### Lähteet:
+
+Applebaum, Anne (2003). *Gulag. Vankileiriensaariston historia.* Helsinki: Kustannusosakeyhtiö Siltala
+
+Kangaspuro, Markku (2000). *Neuvosto-Karjalan taistelu itsehallinnosta. Nationalismi ja suomalaiset punaiset Neuvostoliiton vallankäytössä 1920--1939.* Helsinki: Hakapaino Oy
+
+Nakonechnyi, Mikhail (2022). "They Won't Survive for Long": Soviet Officials on Medical Release Procedure". From the book Barenberg, Alan & Johnson, Emily D. 2022. *Rethinking the Gulag: Identities, Sources, Legacies*. Bloomington, Indiana: Indiana University Press.
+
+Ropponen, Ville & Sutinen, Ville-Juhani 2019. *Luiden tie. Gulagin jäljillä.* Helsinki: Like
+
+Vettenniemi, Erkki (2004). *Punaisen terrorin todistajat. Neuvostoliitto suomalaisten leirivankien muistelmissa.* Helsinki: Suomalaisen Kirjallisuuden Seura
+
+Ylikangas, Mikko (2004). Rivit Suoriksi! Kaunokirjallisuuden poliittinen valvonta Neuvosto-Karjalassa 1917--1940. Saarijärvi: Gummerus Printing.
+
+#### Digitaaliset lähteet:
+
+Karjalan tasavallan Kansallisarkisto. *Pohjois‑Amerikan suomalaiset Neuvosto‑Karjalassa 1920‑1930‑luvulla.* Referenced 10.11.2022 from <http://uf.rkna.ru>
+
+Keskustelemuksia-podcast. Season 1. episode 2: Memories of Stalin's persecution. Referenced 10.11.2022. from <https://www.finlit.fi/fi/ajankohtaista/kuuntele-keskustelemuksia-podcastia#.Y2z4-i86qLc>
+
+Suomalaisen Kirjallisuuden Seura. *Stalinin vainojen muistot -hanke (2021--2022)* Referenced 10.11.2022 from <https://www.finlit.fi/fi/sks/yhteistyohankkeet/stalinin-vainojen-muistot-hanke-2021-2022#.Y2zmFC86qLc>

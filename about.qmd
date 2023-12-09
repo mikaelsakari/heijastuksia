@@ -1,0 +1,22 @@
+---
+title: "？"
+image: "images/Photo.jpg"
+about:
+  template: jolla
+  links:
+    - icon: twitter
+      text: Twitter
+      href: https://twitter.com/mikaelsakari
+    - icon: instagram
+      text: Instagram
+      href: https://instagram.com/mikaelhernesniemi
+    - icon: github
+      text: Github
+      href: https://github.com/mikaelsakari
+---
+
+Tervetuloa blogiini! Olen talous- sekä sosiaalihistorian maisteriopiskelija Helsingin yliopiston valtiotieteellisestä tiedekunnassa. Blogissani kirjoitan sekä arkipäivän poliittisista tapahtumista että syvällisemmistä historiallisista ilmiöistä.
+
+Maailmankuvaani on olennaisesti vaikuttanut synnyinseudut Pohjanmaalla, Trans-Siperian junanvaunut, Laosin bungalowit, Bangkokin valot, Perun vuoristot sekä El Salvadorin pupusat, kuten myös nykyinen rakas kotikaupunkini Helsinki.
+
+Minä yhdellä lauseella: Ihmisiin ja maailmaan optimistisesti suhtautuva pragmaattinen idealisti.

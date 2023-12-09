@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  back-to-top-navigation: true
+  page-footer: "Mikael Hernesniemi 2023"
+  title: "◀◀◀"
+  navbar:
+    right:
+      - about.qmd
+      - icon: twitter
+        href: https://twitter.com/mikaelsakari
+      - icon: instagram
+        href: https://instagram.com/mikaelhernesniemi
+      - icon: github
+        href: https://github.com/mikaelsakari
+format:
+  html:
+    theme: united
+    css: styles.css
+
+editor: visual
+
