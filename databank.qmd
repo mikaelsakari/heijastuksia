@@ -1,0 +1,14 @@
+---
+title: "Databank"
+subtitle: ""
+listing:
+  contents: databank
+  type: default
+  categories: true
+  sort-ui: false
+  filter-ui: false
+page-layout: full
+title-block-banner: true
+---
+
+<iframe src=https://databank.shinyapps.io/data_wb/ width="800" height="600" frameborder="0"></iframe>

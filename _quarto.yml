@@ -8,6 +8,7 @@ website:
   title: "◀◀◀"
   navbar:
     right:
+      - databank.qmd
       - about.qmd
       - icon: twitter
         href: https://twitter.com/mikaelsakari
