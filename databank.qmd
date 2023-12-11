@@ -1,5 +1,5 @@
 ---
-title: "Databank"
+title: "databank"
 subtitle: ""
 listing:
   contents: databank
